@@ -1,0 +1,11 @@
+IDEA PER UN GIOCO SUI NUMERI PARI E DISPARI:
+
+- basarsi su drawing_shapes..._3
+- creare tanti rettangoli con numeri pari e dispari
+- in alto sullo schermo chiedere di volta in volta se si devono cliccare numeri
+    pari o dispari. cliccare con il tasto sinistro del mouse i numeri pari  
+    o dispari di volta in volta. 
+- se il tutto funziona il rettangolo scompare oppure, se c'è stato un errore,
+    il rettangolo diventa rosso.
+- potrebbero esserci di volta in volta due rettangoli che ad ogni click cambiano
+- una barra di stato fa capire quando si sta raggiungendo l'obiettivo di 10 punti.
